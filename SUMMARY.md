@@ -6,19 +6,26 @@
 
 * [Desenho do processo](business-architecture/desenho-do-processo.md)
 
-## Requisitos do produto
+## User Platform
 
-* [Sign in](requisitos-do-produto/sign-in.md)
-* [Sign up](requisitos-do-produto/sign-up.md)
-* [Configurar 2FA](requisitos-do-produto/configurar-2fa.md)
-* [Redefinir Senha](requisitos-do-produto/redefinir-senha.md)
-* [Definir Plano](requisitos-do-produto/definir-plano.md)
-* [Convidar amigos](requisitos-do-produto/convidar-amigos.md)
-* [Criação de Robôs](requisitos-do-produto/criacao-de-robos.md)
-* [Painel Simulação de Performance de Robôs](requisitos-do-produto/painel-simulacao-de-performance-de-robos.md)
-* [Meu Perfil](requisitos-do-produto/meu-perfil.md)
-* [Minha Assinatura](requisitos-do-produto/minha-assinatura.md)
-* [Painel de Operações](requisitos-do-produto/painel-de-operacoes.md)
-* [Painel Gráfico](requisitos-do-produto/painel-grafico.md)
-* [Relatórios](requisitos-do-produto/relatorios.md)
-* [Monitorar Assinaturas](requisitos-do-produto/monitorar-assinaturas.md)
+* [Sign in](user-platform/sign-in.md)
+* [Sign up](user-platform/sign-up.md)
+* [Configurar 2FA](user-platform/configurar-2fa.md)
+* [Redefinir Senha](user-platform/redefinir-senha.md)
+* [Definir Plano](user-platform/definir-plano.md)
+* [Convidar amigos](user-platform/convidar-amigos.md)
+* [Criação de Robôs](user-platform/criacao-de-robos.md)
+* [Painel Simulação de Performance de Robôs](user-platform/painel-simulacao-de-performance-de-robos.md)
+* [Meu Perfil](user-platform/meu-perfil.md)
+* [Minha Assinatura](user-platform/minha-assinatura.md)
+* [Painel de Operações](user-platform/painel-de-operacoes.md)
+* [Painel Gráfico](user-platform/painel-grafico.md)
+* [Relatórios](user-platform/relatorios.md)
+* [Monitorar Assinaturas](user-platform/monitorar-assinaturas.md)
+
+## Backoffice
+
+* [Sign in Backoffice](backoffice/sign-in-backoffice.md)
+* [Sign up Backoffice](backoffice/sign-up-backoffice.md)
+* [Configurar 2FA Backoffice](backoffice/configurar-2fa-backoffice.md)
+* [Redefinir Senha Backoffice](backoffice/redefinir-senha-backoffice.md)
